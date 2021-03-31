@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps. Also, you 
 List of things you need to use this project and how to install them.
 * netlify CLI
   ```sh
-  npm install -g netlify
+  npm install -g netlify-cli
   ```
 
 ### **Installation**
