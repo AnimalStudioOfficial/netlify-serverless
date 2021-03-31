@@ -1,4 +1,4 @@
-<h1 align="center">AIRLINES BACKEND</h1>
+<h1 align="center">NETLIFY SERVERLESS</h1>
 <p align="center"><i>A serverless Backend application developed with Express.js and deployed 🚀 in Netlify functions.</i></p>
 <div align="center">
   <a href="https://github.com/TheWorstOne/airlines-backend/stargazers"><img src="https://img.shields.io/github/stars/TheWorstOne/airlines-backend" alt="Stars Badge"/></a>
