@@ -25,7 +25,7 @@ app.use(cookieParser());
 /*--------------- DATABASE CONNECTION ---------------*/
 try {
   // Here you must configure a .env file where specifies the database URI
-  mongoose.connect(process.env.MONGO_DB_CONNECTION, {
+  mongoose.connect("mongodb+srv://admin5473:5M89PdMLgckrbBDq@errordb.vq1j6hw.mongodb.net/?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
